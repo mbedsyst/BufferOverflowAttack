@@ -1,0 +1,4 @@
+../Core/Src/UART_Wrapper.c:5:13:UART_SendChar	1
+../Core/Src/UART_Wrapper.c:10:6:UART_SendString	2
+../Core/Src/UART_Wrapper.c:17:13:UART_ReceiveChar	1
+../Core/Src/UART_Wrapper.c:24:6:UART_ReceiveString	4
